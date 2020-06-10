@@ -1,4 +1,4 @@
-# Note on AdminMongo:
+# Note on AdminMongo
 
 The ```config.json``` and the ```app.json``` files are used to set the adminMongo connections.
 
